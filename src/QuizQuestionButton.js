@@ -1,11 +1,15 @@
 import React, { Component } from 'react';
 
 class QuizQuestionButton extends Component {
-  constructor(props) {
-    super(props);
-    this.state = {  };
-  }
-
+  /**
+   * 
+   * @description event handler that checks if button clicked
+   * by user corresponds to the right answer
+   * 
+   * @method handleClick
+   * @memberof QuizQuestionButton
+   * 
+   */
   handleClick () {
     this.props.clickHandler(this.props.button_text);
   }

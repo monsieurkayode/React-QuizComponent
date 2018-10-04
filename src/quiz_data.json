@@ -2,15 +2,75 @@
   "quiz_questions": [
     {
       "id": 1,
-      "instruction_text": "How many continents are there on Planet Earth?",
-      "answer_options": ["5", "6", "7", "8"],
-      "answer": "7"
+      "instruction_text": "An example of a state container is",
+      "answer_options": ["Canvas", "Jade", "Redux", "Reducer"],
+      "answer": "Redux"
     },
     {
       "id": 2,
-      "instruction_text": "What's your favorite number?",
-      "answer_options": ["1", "2", "3", "4"],
-      "answer": "4"
+      "instruction_text": "An array index starts from?",
+      "answer_options": ["1", "0", "-1", "+1"],
+      "answer": "0"
+    },
+    {
+      "id": 3,
+      "instruction_text": "Which of these is a dynamic language?",
+      "answer_options": ["C#", "Java", "Kotlin", "Ruby"],
+      "answer": "Ruby"
+    },
+    {
+      "id": 4,
+      "instruction_text": "What are two html attributes that are not valid in JSX?",
+      "answer_options": ["value & text", "style & for", "for & class", "class & style"],
+      "answer": "for & class"
+    },
+    {
+      "id": 5,
+      "instruction_text": "What's the name of React's normalized event abstraction?",
+      "answer_options": ["on*", "Event", "ReactEvent", "SyntheticEvent"],
+      "answer": "SyntheticEvent"
+    },
+    {
+      "id": 6,
+      "instruction_text": "The facility that allows a component to have local, mutable data is called?",
+      "answer_options": ["Datastore", "State", "Props", "Factory"],
+      "answer": "State"
+    },
+    {
+      "id": 7,
+      "instruction_text": "A React component renders based on what?",
+      "answer_options": ["Reducer", "Props & State", "Props", "State"],
+      "answer": "Props & State"
+    },
+    {
+      "id": 8,
+      "instruction_text": "JSX is a wrapper for HTML",
+      "answer_options": ["true", "false"],
+      "answer": "false"
+    },
+    {
+      "id": 9,
+      "instruction_text": "React components can be defined via what?",
+      "answer_options": ["Class", "HTML", "XML", "Redux"],
+      "answer": "Class"
+    },
+    {
+      "id": 10,
+      "instruction_text": "The I in MVI architecture stands for?",
+      "answer_options": ["Interface", "Instance", "Image", "Intent"],
+      "answer": "Intent"
+    },
+    {
+      "id": 11,
+      "instruction_text": "React was open sourced by?",
+      "answer_options": ["Google", "Amazon", "Facebook", "Github"],
+      "answer": "Facebook"
+    },
+    {
+      "id": 12,
+      "instruction_text": "Props are not mutable",
+      "answer_options": ["true", "false"],
+      "answer": "true"
     }
   ]
 }
